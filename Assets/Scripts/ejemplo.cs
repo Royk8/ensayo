@@ -14,8 +14,9 @@ public class ejemplo : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        Debug.Log("personaje primer commit");
+        Debug.Log("personaje segundo commit");
         Debug.Log("Estoy moviendo la camara");
         Debug.Log("aaaaaaaaaaaaaaaaaaaaa");
-
     }
 }
