@@ -14,6 +14,8 @@ public class ejemplo : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        Debug.Log("Estoy moviendo la camara");
+        Debug.Log("aaaaaaaaaaaaaaaaaaaaa");
+
     }
 }
