@@ -16,6 +16,7 @@ public class ejemplo : MonoBehaviour
     {
         Debug.Log("personaje primer commit");
         Debug.Log("personaje segundo commit");
-
+        Debug.Log("Estoy moviendo la camara");
+        Debug.Log("aaaaaaaaaaaaaaaaaaaaa");
     }
 }
