@@ -15,6 +15,7 @@ public class ejemplo : MonoBehaviour
     void Update()
     {
         Debug.Log("Estoy moviendo la camara");
+        Debug.Log("aaaaaaaaaaaaaaaaaaaaa");
 
     }
 }
