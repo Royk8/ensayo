@@ -15,6 +15,7 @@ public class ejemplo : MonoBehaviour
     void Update()
     {
         Debug.Log("personaje primer commit");
+        Debug.Log("personaje segundo commit");
 
     }
 }
