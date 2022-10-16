@@ -8,6 +8,7 @@ public class ejemplo : MonoBehaviour
     void Start()
     {
         Debug.Log("primer commit");
+        Debug.Log("segundo commit");
     }
 
     // Update is called once per frame
